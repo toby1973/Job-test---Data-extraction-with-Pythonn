@@ -1,0 +1,7 @@
+outbound_departure_airport;outbound_arrival_airport;outbound_departure_time;outbound_arrival_time;inbound_departure_airport;inbound_arrival_airport;inbound_departure_time;inbound_arrival_time;total_price;taxes
+NBO;MBA; Thu 23, Dec6:00  GMT+3 2021; Thu 23, Dec7:10  GMT+3 2021;MBA;NBO; Thu 30, Dec7:30  GMT+3 2021; Thu 30, Dec8:40  GMT+3 2021;216.0;12.0
+NBO;MBA; Thu 23, Dec6:00  GMT+3 2021; Thu 23, Dec7:10  GMT+3 2021;MBA;NBO; Thu 30, Dec12:00 GMT+3 2021; Thu 30, Dec13:10 GMT+3 2021;252.0;12.0
+NBO;MBA; Thu 23, Dec6:00  GMT+3 2021; Thu 23, Dec7:10  GMT+3 2021;MBA;NBO; Thu 30, Dec20:10 GMT+3 2021; Thu 30, Dec21:20 GMT+3 2021;234.0;12.0
+NBO;MBA; Thu 23, Dec18:40 GMT+3 2021; Thu 23, Dec19:50 GMT+3 2021;MBA;NBO; Thu 30, Dec7:30  GMT+3 2021; Thu 30, Dec8:40  GMT+3 2021;216.0;12.0
+NBO;MBA; Thu 23, Dec18:40 GMT+3 2021; Thu 23, Dec19:50 GMT+3 2021;MBA;NBO; Thu 30, Dec12:00 GMT+3 2021; Thu 30, Dec13:10 GMT+3 2021;252.0;12.0
+NBO;MBA; Thu 23, Dec18:40 GMT+3 2021; Thu 23, Dec19:50 GMT+3 2021;MBA;NBO; Thu 30, Dec20:10 GMT+3 2021; Thu 30, Dec21:20 GMT+3 2021;234.0;12.0
